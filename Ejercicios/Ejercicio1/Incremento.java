@@ -4,7 +4,7 @@ public class Incremento extends Thread{
     
     @Override
     public void run(){
-        for (int i = 100; i > 0; i--){
+        for (int i = 1; i < 101; i++){
             System.out.println(i);
 
             try{
