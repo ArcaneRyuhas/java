@@ -21,7 +21,8 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine($"Thread {threadId}: Fondos insuficientes. Se requieren ${amountToWithdraw} pesos. Tiene ${accountBalance} pesos.");
+                    Console.WriteLine($"Thread {threadId}: Fondos insuficientes. Se requieren ${amountToWithdraw} pesos." +
+                        "Tiene ${accountBalance} pesos.");
                 }
             }
         }
