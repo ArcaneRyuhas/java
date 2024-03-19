@@ -1,0 +1,15 @@
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.AssemblyInfoInputs.cache
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.AssemblyInfo.cs
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.csproj.CoreCompileInputs.cache
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.sourcelink.json
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.deps.json
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.runtimeconfig.json
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.dll
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.pdb
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.dll
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/refint/AppConHilosATM.dll
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.pdb
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.genruntimeconfig.cache
+/Users/portilla/Documents/Escuela/Red/Programas /java/Ejercicios/AppConHilosATM/obj/Debug/net8.0/ref/AppConHilosATM.dll
